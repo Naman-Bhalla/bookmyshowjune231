@@ -1,4 +1,4 @@
-package com.scaler.bookmyshowjune.models;
+package com.scaler.bookmyshowjune231.models;
 
 import java.util.List;
 
